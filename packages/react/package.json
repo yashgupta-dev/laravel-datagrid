@@ -1,0 +1,9 @@
+{
+  "name": "@codecorner/datagrid-react",
+  "version": "0.1.0",
+  "description": "React renderer for codecorner/laravel-datagrid (Next.js ready)",
+  "type": "module",
+  "main": "DataGrid.jsx",
+  "peerDependencies": { "react": ">=18", "@codecorner/datagrid-core": "^0.1.0" },
+  "license": "MIT"
+}

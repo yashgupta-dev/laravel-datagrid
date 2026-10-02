@@ -1,0 +1,9 @@
+{
+  "name": "@codecorner/datagrid-core",
+  "version": "0.1.0",
+  "description": "Framework-agnostic state + API client for codecorner/laravel-datagrid",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "license": "MIT"
+}
